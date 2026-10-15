@@ -1,0 +1,4 @@
+Fresh Dairy|75|40
+Sugar|150|50
+Maize Flour|150|75
+Bread|65|112
