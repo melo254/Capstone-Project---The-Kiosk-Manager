@@ -1,4 +1,4 @@
-# Capstone-Project---The Kiosk Management System
+# Capstone-Project - The Kiosk Management System
 # Lazarus Kiosk Management System
 
 A Python-based, command-line kiosk management application designed to simplify stock management, sales recording, revenue tracking, and data storage for small retail businesses.
